@@ -38,9 +38,10 @@
 ---
 
 ### ⚡ Impact & Architecture
-- 🦾 **Multi-Agent Orchestration:** Engineered a 15+ agent system for complex KYC validation, driving down manual intervention by **90%** while securing **95% extraction accuracy**.
-- 🧪 **"Testerless Tester" Platform:** Architected an internal GenAI asset utilizing synthetic data generation and LLM-as-a-Judge frameworks to automate the STLC, reducing manual QA effort by **70%**.
-- 📄 **Intelligent Document Processing:** Built resilient extraction pipelines bridging OCR and LLMs to autonomously parse and convert unstructured regulatory data into clean, structured JSON formats.
+- 🏦 **Enterprise GenAI Solutions:** Developing and enhancing generative AI-driven solutions for a leading global financial institution to support operational efficiency, client services, and digital transformation initiatives.
+- 🌐 **Global System Integration:** Collaborating with distributed teams to integrate AI solutions into enterprise ecosystems, ensuring high scalability and strict compliance with financial regulations.
+- ⚙️ **Agentic Optimization:** Fine-tuning and optimizing existing AI agents to improve processing performance, accuracy, and adaptability across complex financial use cases.
+- 🚀 **Strategic Innovation:** Leveraging deep expertise in generative AI frameworks and Large Language Models (LLMs) to drive continuous innovation and deliver measurable business impact.
 
 ---
 
