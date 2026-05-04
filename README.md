@@ -33,11 +33,9 @@ I specialize in building production-grade AI solutions, focusing on **Multi-Agen
 
 ### 📈 GitHub Statistics
 <p align="left">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishbhs&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashishbhs&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishbhs&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" />
+<img height="180em" src="https://streak-stats.demolab.com?user=ashishbhs&theme=github-dark-blue&hide_border=true#gh-dark-mode-only" />
 </p>
-
-
 ---
 
 ### 🤝 Connect with Me
