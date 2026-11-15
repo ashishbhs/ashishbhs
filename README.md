@@ -48,7 +48,7 @@
 ### 📊 System Telemetry
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishbhs&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
+  <!-- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ashishbhs&show_icons=true&theme=tokyonight&hide_border=true#gh-dark-mode-only" /> -->
   <img height="180em" src="https://streak-stats.demolab.com?user=ashishbhs&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
 </p>
 
